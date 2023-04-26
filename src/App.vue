@@ -4,12 +4,15 @@ import { RouterView, RouterLink } from "vue-router"
 
 <template>
   <div>
-    <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/about">About</RouterLink>
+    <RouterLink active-class="active" to="/">Home</RouterLink>
+    <RouterLink active-class="active" to="/about">About</RouterLink>
     <RouterView />
   </div>
 </template>
 
 <style scoped>
-
+  .active {
+    font-weight: 900;
+    color: rgb(153, 104, 14)
+  }
 </style>
