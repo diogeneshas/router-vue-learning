@@ -3,24 +3,40 @@
     "id": 1,
     "name": "Honda",
     "price": 15000,
-    "year": 2014
+    "year": 2014,
+    "contact": {
+      "dealer": "Diogenes",
+      "number": "111-111-111-111"
+    }
   },
   {
     "id": 2,
     "name": "Gol",
     "price": 15000,
-    "year": 2014
+    "year": 2014,
+    "contact": {
+      "dealer": "Henrique",
+      "number": "111-111-111-111"
+    }
   },
   {
     "id": 3,
     "name": "Uno",
     "price": 15000,
-    "year": 2014
+    "year": 2014,
+    "contact": {
+      "dealer": "Alexandra",
+      "number": "111-111-111-111"
+    }
   },
   {
     "id": 4,
     "name": "Palio",
     "price": 15000,
-    "year": 2014
+    "year": 2014,
+    "contact": {
+      "dealer": "Xandinha",
+      "number": "111-111-111-111"
+    }
   }
 ]
