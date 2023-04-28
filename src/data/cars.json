@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Honda",
+    "price": 15000,
+    "year": 2014
+  },
+  {
+    "id": 2,
+    "name": "Gol",
+    "price": 15000,
+    "year": 2014
+  },
+  {
+    "id": 3,
+    "name": "Uno",
+    "price": 15000,
+    "year": 2014
+  },
+  {
+    "id": 4,
+    "name": "Palio",
+    "price": 15000,
+    "year": 2014
+  }
+]
